@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Components.ParserTest" tests="3" skipped="2" failures="0" errors="0" timestamp="2020-12-30T22:19:21" hostname="PHLMBP-JBEAUMONT.local" time="0.007">
+  <properties/>
+  <testcase name="test01_ParseAdditionOnly" classname="Components.ParserTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test03_ParseNested" classname="Components.ParserTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test04_DefineAdditon" classname="Components.ParserTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
